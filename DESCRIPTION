@@ -1,0 +1,17 @@
+Package: EmoticonFindeR
+Type: Package
+Title: Emoticon FindeR
+Version: 0.1.0
+Date: 2019-06-18
+Author: Maëlick Claes <himself@maelick.net>
+Maintainer: Maëlick Claes <himself@maelick.net>
+Description: Set of functions to find emoticons and emojis in textual data.
+Depends: data.table, R (>= 3.0)
+Imports: stringr, parallel, logging, pbapply, NLP, openNLP,
+  doParallel, foreach
+Suggests: testthat, knitr
+LazyData: true
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
