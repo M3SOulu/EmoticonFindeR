@@ -35,3 +35,9 @@ preceding and following each identified emoticon or emoji:
     TextBeforeAfter(emoticons)
 
 <!-- ## Paper and Citation -->
+
+## Acknowledgement
+
+The list of emojis included in the package come from a dataset from
+Kelly Garrett, based on the Unicode standard:
+https://data.world/kgarrett/emojis
