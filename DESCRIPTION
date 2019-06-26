@@ -2,7 +2,7 @@ Package: EmoticonFindeR
 Type: Package
 Title: Emoticon FindeR
 Version: 0.1.0
-Date: 2019-06-18
+Date: 2019-06-26
 Author: Maëlick Claes <himself@maelick.net>
 Maintainer: Maëlick Claes <himself@maelick.net>
 Description: Set of functions to find emoticons and emojis in textual data.
