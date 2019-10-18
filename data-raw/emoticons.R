@@ -20,3 +20,7 @@ Encoding(emojis$char) <- "UTF-8"
 Encoding(emojis$name) <- "UTF-8"
 
 usethis::use_data(emojis, overwrite=TRUE)
+
+## Internal data
+
+usethis::use_data(emoticons.re, emojis, internal=TRUE, overwrite=TRUE)

@@ -27,5 +27,6 @@ inst/doc
 
 man
 NAMESPACE
+R/sysdata.rda
 
 __pycache__
