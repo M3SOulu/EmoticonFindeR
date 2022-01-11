@@ -5,7 +5,7 @@ library(data.table)
 emoticons.re <- fread("emoticons_regex.csv")
 Encoding(emoticons.re$emoticon) <- "UTF-8"
 Encoding(emoticons.re$regex) <- "UTF-8"
-usethis::use_data(emoticons.re, overwrite=TRUE)
+## usethis::use_data(emoticons.re, overwrite=TRUE)
 
 ## Emojis
 
@@ -19,7 +19,7 @@ emojis <- emojis[, list(code, char=browser,
 Encoding(emojis$char) <- "UTF-8"
 Encoding(emojis$name) <- "UTF-8"
 
-usethis::use_data(emojis, overwrite=TRUE)
+## usethis::use_data(emojis, overwrite=TRUE)
 
 ## Internal data
 

@@ -25,6 +25,4 @@ vignettes/*.pdf
 *.knit.md
 inst/doc
 
-R/sysdata.rda
-
 __pycache__
