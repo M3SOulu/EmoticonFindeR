@@ -1,5 +1,7 @@
-[![Build Status](https://travis-ci.org/M3SOulu/EmoticonFindeR.svg?branch=master)](https://travis-ci.org/M3SOulu/EmoticonFindeR)
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/M3SOulu/EmoticonFindeR/workflows/R-CMD-check/badge.svg)](https://github.com/M3SOulu/EmoticonFindeR/actions)
 [![Coverage Status](https://img.shields.io/codecov/c/github/M3SOulu/EmoticonFindeR/master.svg)](https://codecov.io/github/M3SOulu/EmoticonFindeR?branch=master)
+<!-- badges: end -->
 
 # Emotion FindeR
 
